@@ -19,7 +19,7 @@ This repository contains the code of the React application called ToDo-App. I've
 
 ## Tech stack
 
-- React Js
+- React Js.
 
 **This project contains Three GitHub repositories**
 
